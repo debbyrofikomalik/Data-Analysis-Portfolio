@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,28 +15,12 @@
 
 ---
 
-## 🧭 About This Portfolio
+## About This Portfolio
 
-Welcome to my **Data Analytics Portfolio!**  
-This repository showcases a collection of my analytical projects, highlighting my ability to clean, analyze, and visualize data using various tools and techniques.
-Each project covers different aspects of data analysis, such as data exploration, visualization, and dashboard development.
+This repository highlights my expertise in data analytics, showcasing my ability to clean, process, and analyze complex datasets using a wide range of tools and techniques. The projects cover the full data analytics workflow, from data extraction and preprocessing to exploratory analysis, statistical modeling, and visualization. Each project demonstrates my ability to uncover meaningful patterns, generate actionable insights, and communicate findings effectively through interactive dashboards and clear reporting.
 
 ---
 
-## 📈 Featured Project
+## Project 2: [Vendor Performance Analysis](https://github.com/debbyrofikomalik/vendor-performance-analysis)
 
-### 🏨 [Hotel Booking Analysis Project](https://github.com/debbyrofikomalik/Hotel-Booking-Analysis)
-
-In this project, I analyzed and visualized **hotel booking data** from both a City Hotel and a Resort Hotel to understand the key factors behind high cancellation rates.  
-The goal was to identify **patterns, correlations, and business insights** to help hotels **minimize cancellations** and **increase revenue efficiency**.  
-
-The analysis includes:
-- Data cleaning and preprocessing using **Python (Pandas, Matplotlib, Seaborn)**  
-- Exploratory Data Analysis (EDA) to explore relationships between price, seasonality, and cancellations  
-- Recommendations on **dynamic pricing**, **targeted marketing**, and **seasonal discounting** strategies  
-
-📘 *Main tools used:* Python (Google Colab)
-📊 *Dataset source:* [Hotel Booking Demand Dataset – Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data)
-🖥️ *Deck presentation:* [View on Canva](https://www.canva.com/design/DAG18jImy_8/0aAcw-tLTv688iU09dQ0Kw/edit)
-
----
+This project analyzes vendor performance by combining sales, purchase, and inventory data to generate actionable insights for optimizing pricing, improving inventory turnover, and enhancing supplier efficiency. Using SQL for data integration, Python for in-depth analysis, and Power BI for interactive dashboards, the project identifies high-margin opportunities, inventory inefficiencies, and vendor concentration risks, providing a clear framework for data-driven decision-making.
