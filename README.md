@@ -35,7 +35,7 @@ The analysis includes:
 - Exploratory Data Analysis (EDA) to explore relationships between price, seasonality, and cancellations  
 - Recommendations on **dynamic pricing**, **targeted marketing**, and **seasonal discounting** strategies  
 
-📘 *Main tools used:* Python (Google Colab) 
+📘 *Main tools used:* Python (Google Colab)
 📊 *Dataset source:* [Hotel Booking Demand Dataset – Kaggle](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data)
 🖥️ *Deck presentation:* [View on Canva](https://www.canva.com/design/DAG18jImy_8/0aAcw-tLTv688iU09dQ0Kw/edit)
 
