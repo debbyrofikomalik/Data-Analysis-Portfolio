@@ -35,3 +35,8 @@ This project examines hotel booking patterns from both City and Resort Hotels to
 This project analyzes vendor performance by integrating sales, purchase, and inventory data to generate actionable insights for pricing, inventory turnover, and supplier efficiency. Using SQL for data integration, Python for in-depth analysis, and Power BI for interactive dashboards, the project highlights high-margin opportunities, inventory inefficiencies, and vendor concentration risks, providing a clear framework for data-driven decision-making.
 
 ---
+## [Project 3: Credit Card Dashboard](https://github.com/debbyrofikomalik/Credit-Card-Dashboard)
+
+This project presents a comprehensive analysis of customer behavior, revenue generation, and credit risk for a U.S.-based credit card company. Using **Google Looker Studio** for interactive visualization and **Google Sheets** for data preparation, the dashboard highlights customer demographics, spending patterns, and delinquency trends derived from a private dataset obtained through the **MySkill Data Science & Analysis training program**.  
+
+The analysis identifies key insights, including regional concentration in California, Texas, and New York, dominant segments among self-employed and graduate customers, and varying risk profiles across occupations and education levels. It reveals that businessmen and self-employed customers contribute the highest revenue, while government employees without formal education show higher delinquency risks. Recommendations focus on optimizing rewards programs, improving credit monitoring systems, and tailoring marketing campaigns based on customer demographics and spending behavior to enhance profitability and minimize financial risk.
